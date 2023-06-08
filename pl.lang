@@ -53,7 +53,7 @@
     <Initializing Text="Uruchamianie aplikacji..." />
     <Load>
       <Components Text="Ładowanie składników aplikacji..." />
-      <Modules Text="Loading and initializing modules..." />
+      <Modules Text="Ładowanie i uruchamianie składników..." />
       <Products Text="Loading products...">
         <Error Text="Error loading products.">
           <Info Text="Some products may not be eligible for sale. Check failed products and try again." />
