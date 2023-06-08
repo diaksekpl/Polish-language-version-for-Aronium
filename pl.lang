@@ -54,12 +54,12 @@
     <Load>
       <Components Text="Ładowanie składników aplikacji..." />
       <Modules Text="Ładowanie i uruchamianie składników..." />
-      <Products Text="Loading products...">
-        <Error Text="Error loading products.">
-          <Info Text="Some products may not be eligible for sale. Check failed products and try again." />
-          <DuplicateBarcode Text="Duplicate barcode &quot;{0}&quot;" />
-          <DuplicateCode Text="Duplicate code &quot;{0}&quot;" />
-          <Copy Text="Copy to clipboard" />
+      <Products Text="Ładowanie produktów...">
+        <Error Text="Błąd ładowania produktów.">
+          <Info Text="Niektóre produkty mogą nie kwalifikować się do sprzedaży. Sprawdź uszkodzone produkty i spróbuj ponownie." />
+          <DuplicateBarcode Text="Zduplikowany kod kreskowy &quot;{0}&quot;" />
+          <DuplicateCode Text="Zduplikowany kod &quot;{0}&quot;" />
+          <Copy Text="Skopiuj do schowka" />
         </Error>
       </Products>
       <CashRegister Text="Loading cash register data..." />
